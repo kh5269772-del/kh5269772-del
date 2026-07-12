@@ -16,3 +16,5 @@ I'm a Full Stack Developer from Egypt 🇪🇬
 - Git
 
 Thanks for visiting my profile ❤️
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
