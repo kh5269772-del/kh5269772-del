@@ -24,8 +24,10 @@ Thanks for visiting my profile ❤️
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
+
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
 
 
 
