@@ -28,12 +28,9 @@ Thanks for visiting my profile ❤️
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
-![GitHub Streak](https://herokuapp.com)
+![Metrics](https://lecoq.io)
 ![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
+
 
 
 
