@@ -32,5 +32,9 @@ Thanks for visiting my profile ❤️
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://herokuapp.com)
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
+
+
 
 
