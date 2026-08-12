@@ -6,7 +6,7 @@ I'm a Full Stack Developer from Egypt 🇪🇬
 
 ### 🚀 Skills 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,postman" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,postman,vite" /> </p>
 - HTML
 - CSS
 - JavaScript
@@ -26,3 +26,8 @@ Thanks for visiting my profile ❤️
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kh5269772-del&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kh5269772-del&layout=compact&theme=tokyonight)
+
