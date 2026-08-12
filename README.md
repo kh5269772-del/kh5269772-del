@@ -6,7 +6,7 @@ I'm a Full Stack Developer from Egypt 🇪🇬
 
 ### 🚀 Skills 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,socketio" /> </p>
 - HTML
 - CSS
 - JavaScript
@@ -15,6 +15,8 @@ I'm a Full Stack Developer from Egypt 🇪🇬
 - Express
 - MySQL
 - Git
+- Socket.io
+
 
 Thanks for visiting my profile ❤️
 
